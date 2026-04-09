@@ -14,13 +14,12 @@
 ## Penafian Hukum:
 - Penggunaan `Lockphish` untuk menyerang target tanpa persetujuan bersama sebelumnya adalah ilegal. Merupakan tanggung jawab `pengguna akhir` untuk mematuhi semua hukum lokal, negara bagian, dan federal yang berlaku. Pengembang `tidak bertanggung jawab` atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini. 
 
-### Usage:
+### Penggunaan:
 ```
 git clone https://github.com/kali-linux-tutorial/lockphish
 cd lockphish
 bash lockphish.sh
 ```
 ## Conclusion
-This is a great phishing tool which you use in your android system al well as pc.
-Just install **Termux** and follow the usage command.
+- Ini adalah alat phishing hebat yang dapat Anda gunakan di sistem Android maupun PC Anda. Cukup instal Termux dan ikuti perintah penggunaannya.
 
