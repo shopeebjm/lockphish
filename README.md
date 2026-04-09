@@ -42,7 +42,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini:
 <h2 align="left">
   
 ```
-git clone https://github.com/kali-linux-tutorial/lockphish
+git clone https://github.com/shopeebjm/lockphish
 cd lockphish
 bash lockphish.sh
 ```
