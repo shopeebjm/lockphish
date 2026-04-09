@@ -20,6 +20,6 @@ git clone https://github.com/kali-linux-tutorial/lockphish
 cd lockphish
 bash lockphish.sh
 ```
-## Conclusion
+## Kesimpulan
 - Ini adalah alat phishing hebat yang dapat Anda gunakan di sistem Android maupun PC Anda. Cukup instal Termux dan ikuti perintah penggunaannya.
 
