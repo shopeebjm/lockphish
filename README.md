@@ -40,11 +40,16 @@ Unduh Aplikasi Termux Nya Dibawah Ini:
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
 <h2 align="left">
+
+- Ketikkan Perintah Dibawah Ini Di Termux
   
 ```
-git clone https://github.com/shopeebjm/lockphish
-cd lockphish
-bash lockphish.sh
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install wget
+$ git clone https://github.com/shopeebjm/lockphish
+$ cd lockphish
+$ bash lockphish.sh
 ```
 ## Kesimpulan
 - Ini adalah alat phishing hebat yang dapat Anda gunakan di sistem Android maupun PC Anda. Cukup instal Termux dan ikuti perintah penggunaannya.
