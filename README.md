@@ -2,7 +2,7 @@
 
 - Lockphish adalah alat pertama (07/04/2020) untuk serangan phishing pada layar kunci, yang dirancang untuk mengambil kredensial Windows, PIN Android, dan kode sandi iPhone menggunakan tautan https.
 ## LockPhish Tutorial: https://www.kalilinux.in/2020/05/lockphish.html
-## Author: The Linux Choice (Who deleted his GitHub repository)
+## Penulis: The Linux Choice (Yang telah menghapus repositori GitHub-nya)
 ## Twitter: https://twitter.com/linux_choice
 
 ### Fitur:
@@ -11,9 +11,8 @@
 - Jasa Pengiriman Barang Melalui Ngrok
 - Pelacak IP
 
-## Legal disclaimer:
-
-Usage of Lockphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. 
+## Penafian Hukum:
+- Penggunaan `Lockphish` untuk menyerang target tanpa persetujuan bersama sebelumnya adalah ilegal. Merupakan tanggung jawab `pengguna akhir` untuk mematuhi semua hukum lokal, negara bagian, dan federal yang berlaku. Pengembang `tidak bertanggung jawab` atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini. 
 
 ### Usage:
 ```
