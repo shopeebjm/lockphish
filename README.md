@@ -5,14 +5,11 @@
 ## Author: The Linux Choice (Who deleted his GitHub repository)
 ## Twitter: https://twitter.com/linux_choice
 
-
-
-### Features:
-
-#### Lockscreen phishing page for Windows, Android and iPhone
-#### Auto detect device
-#### Port Forwarding by Ngrok
-#### IP Tracker
+### Fitur:
+- Halaman phishing layar kunci untuk Windows, Android, dan iPhone
+- Deteksi Otomatis Perangkat
+- Jasa Pengiriman Barang Melalui Ngrok
+- Pelacak IP
 
 ## Legal disclaimer:
 
