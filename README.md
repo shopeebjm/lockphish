@@ -27,17 +27,21 @@
 ## Penafian Hukum:
 - Penggunaan `Lockphish` untuk menyerang target tanpa persetujuan bersama sebelumnya adalah ilegal. Merupakan tanggung jawab `pengguna akhir` untuk mematuhi semua hukum lokal, negara bagian, dan federal yang berlaku. Pengembang `tidak bertanggung jawab` atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini. 
 
-### Penggunaan:
-Untuk Menjalankan Script Ini
-- Pasang Aplikasi Termux Di Android Terlebih Dahulu!! Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
-
+# Persyaratan
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
 
-Unduh Aplikasi Termux Nya Dibawah Ini:
+Unduh Aplikasi Termux Nya Dibawah Ini
 
 👇👇
-  
-[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+
+[![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+
+<a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
+</a>
+
+[![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
 <h2 align="left">
 
