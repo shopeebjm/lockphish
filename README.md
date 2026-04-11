@@ -45,7 +45,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 <div align="left">
 
-# Ketikkan Perintah Dibawah Ini Di Termux
+- Ketikkan Perintah Dibawah Ini Di Termux
   
 ```
 $ pkg update && pkg upgrade
