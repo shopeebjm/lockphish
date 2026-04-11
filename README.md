@@ -43,7 +43,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
-<h2 align="left">
+<div align="left">
 
 # Ketikkan Perintah Dibawah Ini Di Termux
   
